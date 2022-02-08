@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "432840263309",
+    "firebase_url": "https://financial-accounting-dd8bf.firebaseio.com",
+    "project_id": "financial-accounting-dd8bf",
+    "storage_bucket": "financial-accounting-dd8bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432840263309:android:922117f44567293f2ac4c4",
+        "android_client_info": {
+          "package_name": "com.aa.chittooassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432840263309-dm261kmokepbdthu1cdskccjvb2g8gvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhO3VaN_h0s2DGCAHyvwXiEiCcWRXe4PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432840263309-dm261kmokepbdthu1cdskccjvb2g8gvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
