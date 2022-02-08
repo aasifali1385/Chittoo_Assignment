@@ -1,15 +1,15 @@
 <resources>
     <string name="app_name">Chittoo Assignment</string>
     <string name="or">----------------- OR -----------------</string>
-    <string name="des">des</string>
+    <string name="des">description</string>
     <string name="sign_in_with_google">Sign in with Google</string>
-    <string name="win_certificate">Win Certificate</string>
-    <string name="certificate">CERTIFICATE</string>
     <string name="we_will_send_otp_to_your_entered_mobile_number">We will send OTP to your entered Mobile Number</string>
     <string name="verify_otp">VERIFY OTP</string>
     <string name="name">Name</string>
     <string name="in_91">IN +91</string>
     <string name="mobile_number">Mobile Number</string>
+    <string name="win_certificate">Win Certificate</string>
+    <string name="certificate">CERTIFICATE</string>
     <string name="score">SCORE</string>
     <string name="chat">CHAT</string>
 </resources>
